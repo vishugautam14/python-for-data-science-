@@ -6,3 +6,7 @@ This repository conatin my daily python learning progress
 -python for data science.
 
 ## TOPICS COVERED 
+-python output
+-data type
+-variables
+-comments 
