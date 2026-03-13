@@ -10,3 +10,7 @@ This repository conatin my daily python learning progress
 -data type
 -variables
 -comments 
+-identifiers and keywords
+-user input
+-type conversion
+-literals
